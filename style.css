@@ -1,0 +1,19 @@
+body
+{
+text-align: center;
+background-color: blue;
+}
+#why1
+{
+background-color: blue;
+text-decoration: underline;
+}
+#why2
+{
+    background: red;
+}
+#Canvas
+{
+    background-color: lavenderblush;
+    text-align: center;
+}
